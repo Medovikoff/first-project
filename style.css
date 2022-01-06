@@ -1,4 +1,5 @@
 .main{
     font-family: 'Courier New', Courier, monospace;
     background-color: coral;
+    border: 1px blue solid;
 }
